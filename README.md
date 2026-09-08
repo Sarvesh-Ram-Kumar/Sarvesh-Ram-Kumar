@@ -1,8 +1,6 @@
- Hi, I’m Sarvesh Ram Kumar S
+Hi, I am Sarvesh, I am interested in Tech and Coding, specifically Data Science, ML & AI. **Areas:** Reinforcement Learning • Deep Learning • Computer Vision.
  
- I am Interested in areas of ML/AI
- 
- BTech CSE(AI) in Amrita Vishwa Vidyapeetham, Coimbatore
+BTech CSE(AI) in Amrita Vishwa Vidyapeetham, Coimbatore.
 
 ## Languages
 [<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />](https://www.python.org)
@@ -22,17 +20,12 @@
 [<img src="https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge" />](https://gymnasium.farama.org)
 [<img src="https://img.shields.io/badge/NetworkX-2C3E50?style=for-the-badge" />](https://networkx.org)
 
-**Areas:** Reinforcement Learning • Deep Learning • Computer Vision
-
 ## Web / Backend
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />](https://www.djangoproject.com)
 [<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />](https://flask.palletsprojects.com)
 [<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />](https://en.wikipedia.org/wiki/REST)
 [<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />](https://socket.io)
 [<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />](https://mqtt.org)
-
-## Databases
-[<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com)
 
 ## Developer Tools
 [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com)
@@ -45,7 +38,6 @@
 ## Platforms
 [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org)
 [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />](https://www.android.com)
-[<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" />](https://www.espressif.com/en/products/socs/esp32)
 <!---
 Sarvesh-Ram-Kumar/Sarvesh-Ram-Kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
