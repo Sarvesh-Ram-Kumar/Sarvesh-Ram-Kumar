@@ -20,15 +20,9 @@
 [<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />](https://scikit-learn.org)
 [<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />](https://opencv.org)
 [<img src="https://img.shields.io/badge/Gymnasium-0081A7?style=for-the-badge" />](https://gymnasium.farama.org)
+[<img src="https://img.shields.io/badge/NetworkX-2C3E50?style=for-the-badge" />](https://networkx.org)
 
 **Areas:** Reinforcement Learning • Deep Learning • Computer Vision
-
-## Libraries
-[<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />](https://numpy.org)
-[<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org)
-[<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />](https://matplotlib.org)
-[<img src="https://img.shields.io/badge/NetworkX-2C3E50?style=for-the-badge" />](https://networkx.org)
-[<img src="https://img.shields.io/badge/Albumentations-FF6F00?style=for-the-badge" />](https://albumentations.ai)
 
 ## Web / Backend
 [<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />](https://www.djangoproject.com)
